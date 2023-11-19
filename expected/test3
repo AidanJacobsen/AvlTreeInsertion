@@ -1,0 +1,4 @@
+Post Order:  0 2 1 6 9 7 3
+In Order:    0 1 2 3 6 7 9
+Pre Order:   3 1 0 2 7 6 9
+Tree Height: 3
